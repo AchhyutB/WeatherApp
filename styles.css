@@ -90,6 +90,15 @@ button:hover {
   border-radius: 10px;
   box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.05);
 }
+#mapContainer {
+  margin-top: 20px;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
 
 /* Responsive */
 @media (max-width: 500px) {
